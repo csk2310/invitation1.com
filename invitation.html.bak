@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>NAMING CEREMONY</title>
+		
+
+		<style >
+			
+
+		body
+		{
+		background-color:yellow;
+		border: groove green 20px;
+		
+		}
+		
+		h1 , p {
+		text-align: center;
+		color: black;
+		text-shadow:blue;
+        font-family: "Brush Script MT", Times, serif;
+        font-size: 40px;		
+		
+		}
+		a
+		{
+		color: green;
+		text-decoration: none;
+		
+		}
+		
+		
+		
+		
+		
+		
+		.right {
+		float: left;
+		width: 100px;
+		height: 100px;
+		}
+		
+		.left {
+		float: right;
+		width: 100px;
+		height: 100px;
+		
+		}
+		
+		hr{
+		
+		
+		size: 40px;
+		align:center;
+		color:blue;
+		
+		}
+		
+		
+		
+		
+		
+		
+		
+		</style>
+		</head>
+		<body  >
+		
+		
+		
+		<img class="right" src="D:\suguna baby\images\3.jpeg" >
+		<img class="left" src="D:\suguna baby\images\2.jpg" >
+		
+		<marquee direction="up" scrolldelay="0"><h1 >
+		Naming Ceremony
+		</h1>
+		
+		
+		<p>You are invited to the<p>
+		<P>namimg ceremony of our little blessing<p>
+		<p>on</P>
+		<p>23 Jan 2022</p>
+		<p>Timing</p>
+		<p>Time 10:30am to 11:45 am</p>
+		<p>at</P>
+	<p> Sri kalikamba kamateswari, Denkanikottai, Krishna giri distict, 	
+pin:635107</P> </marquee>
+<P>To navigate click map icon below<P> 
+	
+		<center><a href="https://www.google.com/maps/place/Sri+Kalikamba+Kamateswar+Temple/@12.5257313,77.7913969,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae7d8004bdc799:0x8f9a16a31d25a3c0!8m2!3d12.5257313!4d77.7913969" target="blank"><image src="D:\suguna baby\images\googlemaps.jpg" width="100" height="100" ><a/>
+		<br>
+		<a href="tel:97900 23336">CAll Manju !<a/><br>
+		<a href="tel:76248 23170">CAll Suguna !<a/></center>
+		<marquee direction="left" hspace="50"><image src="D:\suguna baby\images\2.jpg" width="100" height="100"></marquee>
+		
+		
+		</body>
+		</html>
+		

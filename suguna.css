@@ -1,0 +1,86 @@
+.body1{
+
+background-image: url(images.html/image.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+
+
+
+}
+
+#img1{
+
+float: right;
+  opacity: 0.7;
+  border-radius: 50%;
+
+
+
+}
+#img2{
+
+float: left;
+  opacity: 0.7;
+
+
+
+
+}
+
+#div1{
+	font-family: impact, Helvetica, sans-serif;
+
+	color: white;
+	text-align: center;
+
+
+text-shadow: 2px 2px 5px red;
+
+
+font-size: 30px;
+
+
+ animation-name: animation1;
+  animation-duration: 4s;
+
+
+}
+
+#div2{
+
+color: black;
+	text-align: center;
+
+	
+
+
+text-shadow: 2px 2px 5px red;
+
+
+font-size: 30px;
+
+
+ animation-name: animation2;
+  animation-duration: 4s;
+
+
+
+
+
+}
+
+
+
+
+@keyframes animation1 {
+  from {color:white;}
+  to {color: black;}
+}
+@keyframes animation2 {
+  from {color:black;}
+  to {color: yellow;}
+}
+
+
+
